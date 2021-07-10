@@ -11,5 +11,16 @@
     flex-direction: row; 
     height: 100vh;
     color: azure;
-    flex-flow: wrap;
+}
+.container .box-1 {
+    flex: 1;
+}
+.container .box-2 {
+    flex: 2;
+}
+.container .box-3 {
+    flex: 2;
+}
+.container .box-4 {
+    flex: 1;
 }
